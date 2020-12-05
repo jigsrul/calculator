@@ -1,0 +1,27 @@
+
+.calc {
+   width: 330px;
+    height: 520px;
+    background-color: #C0C0C0;
+    margin: 0 auto;
+    top: 20px;
+    position: cover;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.calc-display {
+   text-align: right;
+    height: 60px;
+    margin: 10px 18px;
+    font-size: 22px;
+
+}
+input[type=button] {
+    width: 75px;
+    height: 75px;
+    margin: 0px;
+    color: #fff;
+    font-size:35px;
+    border:none;
+    border-radius: 8px;
+    background-color: #58595b
